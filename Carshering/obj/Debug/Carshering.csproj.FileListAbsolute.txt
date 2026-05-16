@@ -1,0 +1,85 @@
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering.csproj.AssemblyReference.cache
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\AddUserWindow.g.cs
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\MainWindow.g.cs
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\App.g.cs
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering_MarkupCompile.cache
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering_MarkupCompile.lref
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\bin\Debug\Carshering.exe.config
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\bin\Debug\Carshering.exe
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\bin\Debug\Carshering.pdb
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\AdminWindow.g.cs
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\AddUserWindow.baml
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\AdminWindow.baml
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\MainWindow.baml
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering.g.resources
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering.Properties.Resources.resources
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering.csproj.GenerateResource.cache
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering.csproj.CoreCompileInputs.cache
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering.exe
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\Carshering.pdb
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\APIWindow.g.cs
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\UserWindow.g.cs
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\APIWindow.baml
+C:\Users\Grishakina.N.A\source\repos\Carshering\Carshering\obj\Debug\UserWindow.baml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\bin\Debug\Carshering.exe.config
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\bin\Debug\Carshering.exe
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\bin\Debug\Carshering.pdb
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.csproj.AssemblyReference.cache
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\AddUserWindow.g.cs
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\AdminWindow.g.cs
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\APIWindow.g.cs
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\MainWindow.g.cs
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\UserWindow.g.cs
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\App.g.cs
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering_MarkupCompile.cache
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering_MarkupCompile.lref
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\AddUserWindow.baml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\AdminWindow.baml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\APIWindow.baml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\MainWindow.baml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\UserWindow.baml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.g.resources
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.Properties.Resources.resources
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.csproj.GenerateResource.cache
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.csproj.CoreCompileInputs.cache
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.exe
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.pdb
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\bin\Debug\EntityFramework.dll
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\bin\Debug\EntityFramework.xml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering_Content.g.cs
+C:\Users\Grishakina.N.A\Desktop\Carshering\Carshering\obj\Debug\Carshering.csproj.CopyComplete
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\Carshering.exe.config
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\Carshering.exe
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\Carshering.pdb
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\EntityFramework.dll
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\EntityFramework.xml
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.csproj.AssemblyReference.cache
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.exe.config
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\AddUserWindow.g.cs
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\AdminWindow.g.cs
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\APIWindow.g.cs
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\MainWindow.g.cs
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\UserWindow.g.cs
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\App.g.cs
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering_Content.g.cs
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering_MarkupCompile.cache
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering_MarkupCompile.lref
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\AddUserWindow.baml
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\AdminWindow.baml
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\APIWindow.baml
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\MainWindow.baml
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\UserWindow.baml
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.g.resources
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.Properties.Resources.resources
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.csproj.GenerateResource.cache
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.csproj.CoreCompileInputs.cache
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.csproj.Up2Date
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.exe
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\obj\Debug\Carshering.pdb
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nnoty\OneDrive\Рабочий стол\Carshering\Carshering\bin\Debug\Newtonsoft.Json.xml
