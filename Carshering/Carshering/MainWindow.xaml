@@ -1,0 +1,38 @@
+﻿<Window x:Class="Carshering.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Carshering"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="250" ResizeMode="CanResize" Background="#C7BBEE">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Авторизация" FontSize="20" HorizontalAlignment="Center" Grid.Row="0" Margin="10,0,10,0" />
+        <TextBlock Text="Логин" FontSize="14" HorizontalAlignment="Left" Grid.Row="1" Margin="10,0,10,0" />
+        <TextBox x:Name="Login" Grid.Row="2" Background="#B9A9EE" Margin="10,0,10,0" />
+        <TextBlock Text="Пароль" FontSize="14" HorizontalAlignment="Left" Grid.Row="3" Margin="10,0,10,0"  />
+        <TextBox x:Name="Password" Grid.Row="4" Background="#B9A9EE" Margin="10,0,10,0" />
+        <TextBlock Grid.Row="5"/>
+        <Button x:Name="btnJoin"  Grid.Row="6" Margin="10,0,10,0" Content="Войти" Background="#F4A4D1" Click="btnJoin_Click"/>
+        <Button x:Name="btnAPI"  Grid.Row="8" Margin="10,250,10,0" Content="API" Background="#F4A4D1" Click="btnAPI_Click"/>
+
+
+
+
+
+    </Grid>
+</Window>
